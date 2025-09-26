@@ -13,7 +13,7 @@ Find more about **Mjölnir** on the official website: [Click Here](https://mjoln
 ## Find Us on
 
 [<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30"/>](https://instagram.com/mjol_.nir)
-[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/>](mailto: mjolnirr69@example.com)
+[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/>](mailto:mjolnirr69@example.com)
 [<img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="30"/>](https://discord.gg/yourinvite)
 [<img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="30"/>](https://mjolnir.tiiny.site)
 
