@@ -13,7 +13,7 @@ Find more about **Mjölnir** on the official website: [Click Here](https://mjoln
 ## 💻 Installation
 **Clone the repository**
 ```
-git clone https://github.com/yourusername/mjolnir.git
+git clone https://github.com/CyberNobii/mjolnir.git
 cd mjolnir
 bash setup.sh
 python3 mjolnir.py
