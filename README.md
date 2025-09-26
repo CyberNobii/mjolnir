@@ -20,7 +20,7 @@ Find more about **Mjölnir** on the official website: [Click Here](https://mjoln
 ---
 
 ☕ **If you like this project, consider [buying me a coffee](https://www.buymeacoffee.com/yourhandle)!**
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30"/>](https://www.buymeacoffee.com/yourhandle)
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30"/>](https://www.instagram.com/code_dreamerr_)
 
 
 
