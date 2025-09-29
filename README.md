@@ -15,6 +15,8 @@ Find more about **Mjölnir** on the official website: [Click Here](https://mjoln
 ```
 git clone https://github.com/CyberNobii/mjolnir.git
 cd mjolnir
+bash setup.sh
+#or
 pip install -r requirements.txt
 python3 mjolnir.py
 ```
