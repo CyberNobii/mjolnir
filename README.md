@@ -31,7 +31,7 @@ Mjölnir can extract the following Instagram profile information:
 | Followers/Following Dump   | Exports list of all followers and following usernames           | Private (needs login) |
 | Connected to Facebook      | Indicates if the Instagram account is linked to a FB | Public |
 
-<br>
+
 > [!WARNING]
 > Mjölnir is developed for educational and ethical purposes only.  
 > The developer **is not responsible** for any misuse, illegal activities, or unauthorized access performed using this tool.  
