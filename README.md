@@ -20,18 +20,18 @@ Mjölnir can extract the following Instagram profile information:
 | Following Count            | Total number of accounts followed                               | Public         |
 | Total Posts                | Number of uploaded posts                                        | Public         |
 | Is Private                 | Shows if the account is private or public                       | Public         |
-| Verified                   | Indicates if the account is verified (blue tick)                | Public         |
+| Verified                   | Indicates if the account is verified                 | Public         |
 | Is Business                | Indicates if the account is a business account                  | Public         |
 | Profile Pic URL            | Direct link to profile picture in high quality                  | Public         |
-| Email (from bio)           | Extracted automatically if present in bio                       | Public         |
-| Phone Number (from bio)    | Extracted automatically if present in bio                       | Public         |
+| Email            | Extracted automatically if present                       | Public         |
+| Phone Number    | Extracted automatically if present                      | Public         |
 | IGTV Count                 | Number of IGTV videos uploaded                                  | Public         |
-| Deep Search (links/phone)  | Finds hidden links, emails, and phone numbers for OSINT         | Public         |
-| Posts Dump                 | Full dump of media metadata (captions, hashtags, mentions, etc) | Private (needs login) |
+| Deep Search (links/phone)  | Finds hidden links, emails, and phone numbers       | Public         |
+| Posts Donloads                 | Downloads posts and reels  | Private (needs login) |
 | Followers/Following Dump   | Exports list of all followers and following usernames           | Private (needs login) |
 | Connected to Facebook      | Indicates if the Instagram account is linked to a FB | Public |
 
-
+<br>
 > [!WARNING]
 > Mjölnir is developed for educational and ethical purposes only.  
 > The developer **is not responsible** for any misuse, illegal activities, or unauthorized access performed using this tool.  
@@ -50,12 +50,10 @@ pip install -r requirements.txt
 python3 mjolnir.py
 ```
 
-> [!WARNING]
-> **Important:** Mjölnir is for ethical OSINT only. The developer is **not responsible** for misuse.
->
 > [!TIP]
 > - **Use time breaks:** When requesting large amounts of data, add deliberate delays (sleep/pause) between requests to avoid rate limits and temporary IP bans.  
 > - **Use proxies/VPNs:** Rotating legitimate proxies or a VPN can reduce the chance of blocks.
+<br>
 
 ## Find Us on
 
