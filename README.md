@@ -58,7 +58,7 @@ python3 mjolnir.py
 ## Find Us on
 
 [<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30"/>](https://instagram.com/mjol_.nir) 
-[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/>](mailto:mjolnirr69@example.com) <br>
+[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/>](mailto:mjolnirr69@example.com) 
 [<img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="30"/>](https://discord.gg/5RbRHk5B2c) 
 [<img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="30"/>](https://mjolnir.tiiny.site) <br>
 
