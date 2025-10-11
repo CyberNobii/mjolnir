@@ -56,11 +56,15 @@ python3 mjolnir.py
 <br>
 
 ## Find Us on
+[<img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" width="35"/>](https://instagram.com/mjol_.nir)
+&nbsp;&nbsp;
+[<img src="https://cdn-icons-png.flaticon.com/512/3059/3059989.png" width="35"/>](mailto:mjolnirr69@example.com)
+&nbsp;&nbsp;
+[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="35"/>](https://discord.gg/5RbRHk5B2c)
+&nbsp;&nbsp;
+[<img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="35"/>](https://mjolnir.tiiny.site)
 
-[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30"/>](https://instagram.com/mjol_.nir) 
-[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/>](mailto:mjolnirr69@example.com) 
-[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="30"/>](https://discord.gg/5RbRHk5B2c) 
-[<img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="30"/>](https://mjolnir.tiiny.site) <br>
+
 
 
 ☕ **If you like this project, consider [buying me a coffee](https://www.instagram.com/code_dreamerr_) !**<br>
