@@ -5,32 +5,32 @@ It helps you fetch publicly available profile data, analyze bios, extract useful
 
 ---
 
-## 📊 Data Extracted by Mjölnir
+## Information Fetched by Mjölnir
 
-Mjölnir can extract the following Instagram profile information:
-
-| 🔍 Data Type               | 📖 Description                                                   | 🌐 Availability |
-|----------------------------|-----------------------------------------------------------------|----------------|
-| Username                   | The account’s unique Instagram handle                           | Public         |
-| Full Name                  | Profile’s display name                                          | Public         |
-| User ID                    | Unique numeric ID of the account                                | Public         |
-| Bio                        | User’s biography text (with email/phone extraction)             | Public         |
-| External URL               | Link in bio (e.g., website, YouTube, other platforms)          | Public         |
-| Followers Count            | Total number of followers                                       | Public         |
-| Following Count            | Total number of accounts followed                               | Public         |
-| Total Posts                | Number of uploaded posts                                        | Public         |
-| Is Private                 | Shows if the account is private or public                       | Public         |
-| Verified                   | Indicates if the account is verified                 | Public         |
-| Is Business                | Indicates if the account is a business account                  | Public         |
-| Profile Pic URL            | Direct link to profile picture in high quality                  | Public         |
-| Email            | Extracted automatically if present                       | Public         |
-| Phone Number    | Extracted automatically if present                      | Public         |
-| IGTV Count                 | Number of IGTV videos uploaded                                  | Public         |
-| Deep Search (links/phone)  | Finds hidden links, emails, and phone numbers       | Public         |
-| Posts Donloads                 | Downloads posts and reels  | Private (needs login) |
-| Followers/Following Dump   | Exports list of all followers and following usernames           | Private (needs login) |
-| Connected to Facebook      | Indicates if the Instagram account is linked to a FB | Public |
-
+- Username  
+- Full Name  
+- User ID  
+- Bio  
+- Emails in Bio  
+- Phones in Bio  
+- Mentions in Bio  
+- External URL  
+- Followers Count  
+- Following Count  
+- Total Posts  
+- Is Private  
+- Verified  
+- Business Account  
+- Business Category  
+- Category  
+- IGTV Count  
+- Facebook Page Linked  
+- Public Email  
+- Public Phone Number  
+- Profile Picture URL 
+- Deep Search (hidden emails, phones, links)  
+- Posts Download *(requires login)*  
+- Followers/Following Dump *(requires login)*
 
 > [!WARNING]
 > Mjölnir is developed for educational and ethical purposes only.  
