@@ -4,6 +4,32 @@
 It helps you fetch publicly available profile data, analyze bios, extract useful details, and perform automated recon with ease.  
 
 ---
+## Information Fetched by Mjölnir
+
+- Username  
+- Full Name  
+- User ID  
+- Bio  
+- Emails in Bio  
+- Phones in Bio  
+- Mentions in Bio  
+- External URL  
+- Followers Count  
+- Following Count  
+- Total Posts  
+- Is Private  
+- Verified  
+- Business Account  
+- Business Category  
+- Category  
+- IGTV Count  
+- Facebook Page Linked  
+- Public Email  
+- Public Phone Number  
+- Profile Picture URL (HD)  
+- Deep Search (hidden emails, phones, links)  
+- Posts Download *(requires login)*  
+- Followers/Following Dump *(requires login)*
 
 ## 🔗 Learn More  
 Find more about **Mjölnir** on the official website: [Click Here](https://mjolnir.tiiny.site)
