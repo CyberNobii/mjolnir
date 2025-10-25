@@ -11,8 +11,6 @@ It helps you fetch publicly available profile data, analyze bios, extract useful
 - Full Name  
 - User ID  
 - Bio  
-- Emails in Bio  
-- Phones in Bio  
 - Mentions in Bio  
 - External URL  
 - Followers Count  
@@ -25,8 +23,8 @@ It helps you fetch publicly available profile data, analyze bios, extract useful
 - Category  
 - IGTV Count  
 - Facebook Page Linked  
-- Public Email  
-- Public Phone Number  
+- Email  
+- Phone Number  
 - Profile Picture URL 
 - Deep Search (hidden emails, phones, links)  
 - Posts Download *(requires login)*  
